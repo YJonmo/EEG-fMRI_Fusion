@@ -1,7 +1,7 @@
 
 
 %% Adding the correct toolboxes 
-pharm_path(0)
+% pharm_path(0)
 % CustomPath_SourceReconst()
 %% EEG EEG EEG EEG EEG EEG EEG EEG EEG EEG EEG EEG EEG EEG EEG EEG EEG EEG EEG EEG EEG EEG EEG EEG EEG EEG EEG EEG EEG EEG EEG EEG EEG EEG 
     %% Loading the Source space and sensor space data     
@@ -678,5 +678,5 @@ pharm_path(0)
   
     
     %% Save the fMIR maps
-    save_untouch_nii(fMRI_saved,  'Fused_fMRI_Junk28')
+    save_untouch_nii(fMRI_saved,  'Fused_fMRI_Component')
 
