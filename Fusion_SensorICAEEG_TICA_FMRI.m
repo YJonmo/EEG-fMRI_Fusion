@@ -2,7 +2,7 @@
 
 
 %% Adding the correct toolboxes 
-pharm_path(0)
+% pharm_path(0)
 % CustomPath_SourceReconst()
 %% EEG EEG EEG EEG EEG EEG EEG EEG EEG EEG EEG EEG EEG EEG EEG EEG EEG EEG EEG EEG EEG EEG EEG EEG EEG EEG EEG EEG EEG EEG EEG EEG EEG EEG 
     %% Loading the forward model and the data     
@@ -567,5 +567,5 @@ pharm_path(0)
   
     
     %% Save the fMIR maps
-    save_untouch_nii(fMRI_saved,  'Fused_fMRI_Junk3')
+    save_untouch_nii(fMRI_saved,  'Fused_fMRI_Component')
 
