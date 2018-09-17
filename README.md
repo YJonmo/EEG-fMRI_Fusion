@@ -18,4 +18,4 @@ https://github.com/YJonmo/Multi-band-ICA-for-EEG-and-MEG
 
 Then temporal ICA was applied to the fMRI data to extract the features.
 
-The fusion of the EEG and fMRI features are based SOBI or PCA (SVD). As SOBI is based on finding the correlation of maximization of the time-courses using a predefined time-shift, we have the option of choosing the time shift to be examined by the SOBI. For small time-shifts (e.g., less than 10 s), the SVD and SOBI behave similarly.
+The fusion of the EEG and fMRI features are based SOBI or PCA (SVD). As SOBI is based on finding the correlation of maximization of the time-courses using a predefined time-shift, we have the option of choosing the time shift to be examined by the SOBI. For small time-shifts (e.g., less than 10 s), the SVD and SOBI behave similarly. 
