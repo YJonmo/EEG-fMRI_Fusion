@@ -1,4 +1,4 @@
-These codes are used for fusing the concurrent EEG and fMRI This repository contains source codes for the fusion of concurrent EEG-fMRI recording.
+These codes are used for fusing the concurrent EEG and fMRI. This repository contains source codes for the fusion of concurrent EEG-fMRI recording.
 
 Here, there are 3 approaches for fusing the EEG and fMRI features, two of them is based on the source-space EEG and one in the sensor-space EEG.
 
